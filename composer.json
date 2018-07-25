@@ -2,6 +2,7 @@
 	"name": "composertest/myfirsttest",
 	"description": "This is my first test of compser installalable package",
 	"minimum-stability": "stable",
+	"version": "v0.0.1",
 	"repositories": [
 		{
 			"type": "git",
