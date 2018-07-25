@@ -8,6 +8,6 @@
 		}
 	],
 	"require": {
-		"woocommerce/woocommerce": "3.4.3"
+		"parvez64bit/composertest": "1.0.0"
 	},
 }
