@@ -1,7 +1,7 @@
 {
 	"name": "composertest/myfirsttest",
 	"description": "This is my first test of compser installalable package",
-	"minimum-stability": "stable"
+	"minimum-stability": "stable",
 	"repositories": [
 		{
 			"type": "git",
