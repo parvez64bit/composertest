@@ -1,0 +1,13 @@
+{
+	"name": "composertest/myfirsttest",
+	"description": "This is my first test of compser installalable package",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/parvez64bit/composertest.git"
+		}
+	],
+	"require": {
+		"woocommerce/woocommerce": "3.4.3"
+	},
+}
