@@ -1,13 +1,14 @@
 {
 	"name": "composertest/myfirsttest",
 	"description": "This is my first test of compser installalable package",
+	"minimum-stability": "stable"
 	"repositories": [
 		{
-			"type": "vcs",
+			"type": "git",
 			"url": "https://github.com/parvez64bit/composertest.git"
 		}
 	],
 	"require": {
-		"parvez64bit/composertest": "1.0.0"
+		"woocommerce/woocommerce": "3.4.3"
 	},
 }
