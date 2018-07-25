@@ -9,6 +9,6 @@
 		}
 	],
 	"require": {
-		"woocommerce/woocommerce": "3.4.3"
+		"composer/installers": "v1.6.2"
 	},
 }
